@@ -1,0 +1,3 @@
+[submodule "special-waddle"]
+	path = special-waddle
+	url = git@github.com:gabemilani/special-waddle.git
