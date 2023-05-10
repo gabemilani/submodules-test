@@ -1,3 +1,6 @@
 [submodule "special-waddle"]
 	path = special-waddle
 	url = git@github.com:gabemilani/special-waddle.git
+[submodule "didactic-octo-sniffle"]
+	path = didactic-octo-sniffle
+	url = git@github.com:gabemilani/didactic-octo-sniffle.git
